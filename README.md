@@ -1,4 +1,4 @@
-# TP-Android-IDSE
+﻿# TP-Android-IDSE
 ## Par Baptiste Etienne et Teva Locandro
 
 TP terminé.
@@ -7,6 +7,10 @@ TP terminé.
 
 - Utilisation des fragments.
 - Affichage selon la selection.
-- création liste animal et affichage de l'animal selectionné.
- 
+- Création liste animal et affichage de l'animal selectionné.
+
+## Bonus dernier cours :
+
+- Ajout de la vibreur.
+- Ajout du son quand on clique sur l'image.
 

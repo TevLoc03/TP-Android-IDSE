@@ -1,4 +1,4 @@
-package com.example.baptiste.fragmentanimal;
+package com.example.idse.fragmentanimal;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

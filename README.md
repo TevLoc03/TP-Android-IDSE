@@ -11,6 +11,6 @@ TP terminé.
 
 ## Bonus dernier cours :
 
-- Ajout de la vibreur.
+- Ajout du vibreur.
 - Ajout du son quand on clique sur l'image.
 
